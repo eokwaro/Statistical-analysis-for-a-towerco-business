@@ -8,7 +8,8 @@ This repository contains the Jupyter Notebook files and a PDF report detailing a
 
 ## Contents
 
-**Power BI file [Power BI](https://github.com/eokwaro/Statistical-analysis-for-a-towerco-business/blob/main/operational_data.pbix)
+**Power BI file [Power BI](https://github.com/eokwaro/Statistical-analysis-for-a-towerco-business/blob/main/operational_data.pbix)**
+
 **the notebook file [operational.ipynb](https://github.com/eokwaro/Statistical-analysis-for-a-towerco-business/blob/main/operational.ipynb)** 
 
 **report** [Site-Performance-Analysis-Report.pdf](https://github.com/eokwaro/Statistical-analysis-for-a-towerco-business/blob/main/Site-Performance-Analysis-Report.pdf)
